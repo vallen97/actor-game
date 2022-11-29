@@ -19,4 +19,4 @@ In file .env.example there is a place that will take an API Key from MovieDB
 https://www.themoviedb.org/signup , and change the .env.example to .env.local
 
 
-Demo: https://va-actor-game.herokuapp.com/
+Demo: https://actor-game-production.up.railway.app/
