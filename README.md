@@ -17,7 +17,3 @@ This project can keep doing comparisons, but there will be too many requests.
 
 In file .env.example there is a place that will take an API Key from MovieDB
 https://www.themoviedb.org/signup , and change the .env.example to .env.local
-
-
-Demo: https://va-actor-game.herokuapp.com/ 
-Backup: https://actor-game-production.up.railway.app/
